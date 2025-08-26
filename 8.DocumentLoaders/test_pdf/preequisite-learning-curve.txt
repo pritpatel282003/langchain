@@ -1,0 +1,54 @@
+﻿ # TIER 1: MATH FOUNDATIONAL
+    {"code": "MS01", "name": "Whole-number operations & order of operations", "tier": 1, "section": "Math"},
+    {"code": "MS02", "name": "Prime factors, GCF & LCM", "tier": 1, "section": "Math"},
+    {"code": "QC03", "name": "GCF & LCM Reasoning", "tier": 1, "section": "Math"},
+    {"code": "MS03", "name": "Integer operations & absolute value", "tier": 1, "section": "Math"},
+    {"code": "QC01", "name": "Signed Integers & Absolute Value", "tier": 1, "section": "Math"},
+
+    # TIER 2: MATH NUMBER SYSTEMS
+    {"code": "MS04", "name": "Fraction & mixed-number operations", "tier": 2, "section": "Math"},
+    {"code": "QC02", "name": "Fractions & Mixed Numbers", "tier": 2, "section": "Math"},
+    {"code": "MS05", "name": "Decimal & percent reasoning", "tier": 2, "section": "Math"},
+    {"code": "QC04", "name": "Decimals & Percents", "tier": 2, "section": "Math"},
+
+    # TIER 3: MATH PROPORTIONAL REASONING
+    {"code": "MS06", "name": "Ratios, unit rates, scale drawings & proportions", "tier": 3, "section": "Math"},
+    {"code": "QC05", "name": "Ratios & Unit Rates", "tier": 3, "section": "Math"},
+
+    # TIER 4: MATH EXPONENTIAL
+    {"code": "MS07", "name": "Exponents, squares & square roots", "tier": 4, "section": "Math"},
+    {"code": "QC06", "name": "Exponents & Roots", "tier": 4, "section": "Math"},
+    {"code": "QC19", "name": "Scientific Notation & Order of Magnitude", "tier": 4, "section": "Math"},
+
+    # TIER 5: MATH ALGEBRAIC BASIC
+    {"code": "MS08", "name": "Evaluating & simplifying algebraic expressions", "tier": 5, "section": "Math"},
+    {"code": "QC07a", "name": "Variable Expressions (Fixed Order)", "tier": 5, "section": "Math"},
+    {"code": "QC07b", "name": "Variable Expressions (Indeterminate)", "tier": 5, "section": "Math"},
+
+    # TIER 6: MATH ALGEBRAIC ADVANCED
+    {"code": "MS09", "name": "One-variable linear equations & inequalities", "tier": 6, "section": "Math"},
+    {"code": "MS10", "name": "Coordinate-plane basics", "tier": 6, "section": "Math"},
+    {"code": "QC13", "name": "Coordinate Plane Slope & Distance", "tier": 6, "section": "Math"},
+    {"code": "MS11", "name": "Patterns, sequences & basic function rules", "tier": 6, "section": "Math"},
+    {"code": "QC08", "name": "Sequences & Patterns", "tier": 6, "section": "Math"},
+
+    # TIER 7: MATH GEOMETRIC
+    {"code": "MS12", "name": "Angle relationships & polygon properties", "tier": 7, "section": "Math"},
+    {"code": "QC09", "name": "Angle & Segment Relations", "tier": 7, "section": "Math"},
+    {"code": "MS13", "name": "Perimeter, area & circumference of 2-D shapes", "tier": 7, "section": "Math"},
+    {"code": "QC11", "name": "Area & Perimeter Reasoning", "tier": 7, "section": "Math"},
+    {"code": "QC12", "name": "Circle Measures", "tier": 7, "section": "Math"},
+    {"code": "QC10", "name": "Similar Figures & Scale", "tier": 7, "section": "Math"},
+    {"code": "MS14", "name": "Surface area & volume of 3-D solids", "tier": 7, "section": "Math"},
+    {"code": "QC16", "name": "Volume & Surface Area", "tier": 7, "section": "Math"},
+
+    # TIER 8: MATH MEASUREMENT
+    {"code": "MS16", "name": "Measurement units, tools & conversions", "tier": 8, "section": "Math"},
+    {"code": "QC14", "name": "Unit Conversion", "tier": 8, "section": "Math"},
+    {"code": "QC15", "name": "Rate/Time/Distance & Density", "tier": 8, "section": "Math"},
+
+    # TIER 9: MATH DATA ANALYSIS
+    {"code": "MS17", "name": "Data representation & statistics", "tier": 9, "section": "Math"},
+    {"code": "QC17", "name": "Data Displays & Central Tendency", "tier": 9, "section": "Math"},
+    {"code": "MS18", "name": "Probability of simple & compound events", "tier": 9, "section": "Math"},
+    {"code": "QC18", "name": "Probability Comparisons", "tier": 9, "section": "Math"},
