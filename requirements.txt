@@ -3,7 +3,8 @@ langchain
 langchain-core
 langchain-community
 langchain-chroma
-
+langchain-postgres
+langchain-experimental
 
 # OpenAI Integration
 langchain-openai
@@ -29,7 +30,6 @@ numpy
 scikit-learn
 torch
 sentence-transformers
-streamlit
 accelerate
 grandalf
 pypdf
@@ -38,3 +38,9 @@ tiktoken
 pymongo
 faiss-cpu
 wikipedia
+youtube-transcript-api
+pytube
+yt-dlp
+psycopg2
+duckduckgo-search
+ddgs

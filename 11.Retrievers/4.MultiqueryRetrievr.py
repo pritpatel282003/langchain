@@ -4,7 +4,7 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_chroma import Chroma
 from langchain.schema import Document
 from langchain.retrievers.multi_query import MultiQueryRetriever
-from langchain_google_genai import ChatGoogleGenerativeAI  # Gemini LLM
+from langchain_google_genai import ChatGoogleGenerativeAI 
 
 # 1. Load environment variables
 load_dotenv()
