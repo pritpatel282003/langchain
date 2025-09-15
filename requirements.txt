@@ -44,3 +44,5 @@ yt-dlp
 psycopg2
 duckduckgo-search
 ddgs
+py-irt
+pyBKT
